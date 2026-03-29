@@ -4,7 +4,7 @@
 💡 Passionate about building startups, scalable platforms, and real-world tech solutions  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Startup+Builder;AI+Explorer;Problem+Solver;Future+Tech+Leader" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Explorer;Problem+Solver;" />
 </p>
 
 ---
