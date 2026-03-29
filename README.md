@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Narayan Naidu
-### 🚀 Web Developer @ TENSPICK
+#  Hi, I'm Narayan Naidu
+###  Web Developer @ TENSPICK
 
-💡 Passionate about building startups, scalable platforms, and real-world tech solutions  
+ Passionate about building startups, scalable platforms, and real-world tech solutions  
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Explorer;Problem+Solver;" />
@@ -9,7 +9,7 @@
 
 ---
 
-## 🏢 About Me
+##  About Me
 
 I am a driven and self-motivated developer with a strong interest in building real-world applications and scalable digital platforms. Currently working at **TENSPICK**, I operate at the intersection of technology and business, contributing to both product development and strategic growth.
 
@@ -17,7 +17,7 @@ With hands-on experience in web development and startup ecosystems, I focus on t
 
 ---
 
-## 👨‍💻 Professional Details
+##  Professional Details
 
 - **Role:** Web Developer  
 - **Company:** TENSPICK  
@@ -27,18 +27,18 @@ With hands-on experience in web development and startup ecosystems, I focus on t
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
-- 🌐 Develop modern, responsive, user-centric web applications  
-- 🧠 Solve real-world problems using structured logic  
-- 📈 Execute digital marketing strategies for growth  
-- 🤖 Explore AI, automation & emerging technologies  
-- ⚙️ Build scalable startup-ready systems  
-- 🤝 Collaborate with teams & clients  
+-  Develop modern, responsive, user-centric web applications  
+-  Solve real-world problems using structured logic  
+-  Execute digital marketing strategies for growth  
+-  Explore AI, automation & emerging technologies  
+-  Build scalable startup-ready systems  
+-  Collaborate with teams & clients  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,mongodb,git,github,vscode" />
@@ -46,18 +46,18 @@ With hands-on experience in web development and startup ecosystems, I focus on t
 
 ---
 
-## 🧠 Skills
+##  Skills
 
-### 💻 Programming
+###  Programming
 - Java (Core, OOP)
 - Python (Scripting, Problem Solving)
 - C (Fundamentals)
 
-### 🌐 Web Development
+###  Web Development
 - HTML (Semantic, Accessibility)
 - CSS (Responsive Design, Layouts)
 - JavaScript (DOM, Advanced Learning)
-- 🚀 MERN Stack (In Progress)
+-  MERN Stack (In Progress)
 
 ### ⚙️ Other Skills
 - Marketing Strategy & Brand Building  
@@ -67,23 +67,23 @@ With hands-on experience in web development and startup ecosystems, I focus on t
 
 ---
 
-## 🔥 Projects
+##  Projects
 
 | Project | Description |
 |--------|------------|
-| 🏢 TENSPICK | Tech initiative building innovative digital products |
-| 🌍 LOCAL Link | Hyperlocal discovery platform |
-| 💍 Wedors | Wedding & event booking platform |
-| 🛕 Teertharaksha | AI-based pilgrimage planner |
-| 🏠 Dequalita Interior Homes | Business website & branding |
-| 💃 Spark Dance Academy | Online academy presence |
-| 🥩 AGK Groups | Startup digital support |
-| 🧺 LaundryOurs | Laundry service platform |
-| 🧪 RR Labs | Client-based digital solution |
+|  TENSPICK | Tech initiative building innovative digital products |
+|  LOCAL Link | Hyperlocal discovery platform |
+|  Wedors | Wedding & event booking platform |
+|  Teertharaksha | AI-based pilgrimage planner |
+|  Dequalita Interior Homes | Business website & branding |
+|  Spark Dance Academy | Online academy presence |
+|  AGK Groups | Startup digital support |
+|  LaundryOurs | Laundry service platform |
+|  RR Labs | Client-based digital solution |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Narapu-Reddy-Mano-Teja-Reddy&show_icons=true&theme=tokyonight" />
@@ -92,19 +92,19 @@ With hands-on experience in web development and startup ecosystems, I focus on t
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://github.com/nandu3153">💻 GitHub</a> •
-<a href="mailto:narayannaidumaddina@gmail.com">📧 Email</a> •
+Email-narayannaidumaddina@gmail.com
 📱 +91 8328418617
 </p>
 
-💭 **"Innovations Behind Imaginations"**
+ **"Innovations Behind Imaginations"**
 
 ---
 
-## 📈 Growth & Learning
+##  Growth & Learning
 
 - Strengthening Data Structures & Algorithms  
 - Advancing towards Full-Stack Development (MERN)  
@@ -113,7 +113,7 @@ With hands-on experience in web development and startup ecosystems, I focus on t
 
 ---
 
-## ⚡ Philosophy
+##  Philosophy
 
 **Consistency + Execution = Growth**  
 
@@ -121,11 +121,11 @@ Ideas are valuable, but execution creates impact.
 
 ---
 
-## 🚀 Personal Statement
+##  Personal Statement
 
 I am not just focused on learning technology —  
 I am focused on using technology to build, scale, and create meaningful solutions.
 
 ---
 
-🔥 **Let's Build Something Amazing Together!** 🚀
+ **Let's Build Something Amazing Together!** 
