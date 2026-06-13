@@ -1,94 +1,83 @@
 #  Hi, I'm Narayan Naidu
-###  Web Developer @ TENSPICK
+###  AI Engineer @ TENSPICK
 
- Passionate about building startups, scalable platforms, and real-world tech solutions  
+ Passionate about building AI-powered products, intelligent systems, and real-world technology solutions.
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Explorer;Problem+Solver;" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+Engineer;AI+Engineer;" />
 </p>
 
 ---
 
-##  About Me
+## About Me
 
-I am a driven and self-motivated developer with a strong interest in building real-world applications and scalable digital platforms. Currently working at **TENSPICK**, I operate at the intersection of technology and business, contributing to both product development and strategic growth.
+I am a driven and self-motivated AI enthusiast with a strong interest in Machine Learning, Artificial Intelligence, Computer Vision, and Generative AI.
 
-With hands-on experience in web development and startup ecosystems, I focus on turning ideas into practical solutions. I continuously explore new technologies, improve my problem-solving skills, and work towards building impactful products.
+Currently, I focus on designing intelligent systems, training machine learning models, and building AI-powered applications that solve real-world problems. Alongside AI, I have experience in full-stack development, enabling me to develop complete end-to-end solutions from model development to deployment.
 
----
-
-##  Professional Details
-
-- **Role:** Web Developer  
-- **Company:** TENSPICK  
-- **Joining Date:** 18-08-2025  
-- **Location:** Ananthampalli, Pullampeta, Andhra Pradesh, India  
-- **Career Focus:** Software Engineering | Full-Stack | AI  
+I continuously explore emerging AI technologies, improve my problem-solving skills, and work toward building impactful products that combine innovation with practical value.
 
 ---
 
-##  What I Do
+## Professional Details
 
--  Develop modern, responsive, user-centric web applications  
--  Solve real-world problems using structured logic  
--  Execute digital marketing strategies for growth  
--  Explore AI, automation & emerging technologies  
--  Build scalable startup-ready systems  
--  Collaborate with teams & clients  
+- **Role:** AI Engineer / Machine Learning Engineer
+- **Specialization:** Artificial Intelligence, Machine Learning, Computer Vision, Generative AI (Gained from Infosys Internship)
+- **Location:** Tirupati, Andhra Pradesh, India
+- **Career Focus:** AI Engineering | Machine Learning | Deep Learning | Data Science
 
 ---
 
-##  Tech Stack
+## What I Do
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,mongodb,git,github,vscode" />
-</p>
-
----
-
-##  Skills
-
-###  Programming
-- Java (Core, OOP)
-- Python (Scripting, Problem Solving)
-- C (Fundamentals)
-
-###  Web Development
-- HTML (Semantic, Accessibility)
-- CSS (Responsive Design, Layouts)
-- JavaScript (DOM, Advanced Learning)
--  MERN Stack (In Progress)
-
-### ⚙️ Other Skills
-- Marketing Strategy & Brand Building  
-- Startup Development & Execution  
-- UI/UX Thinking  
-- Logical Problem Solving  
+- Build AI-powered applications and intelligent systems
+- Develop and train Machine Learning & Deep Learning models
+- Work on Computer Vision and NLP projects
+- Deploy AI solutions using modern frameworks and cloud platforms
+- Solve real-world problems through data-driven approaches
+- Explore Generative AI, LLMs, and automation technologies
 
 ---
 
-##  Projects
+## Skills
+
+### Artificial Intelligence & Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- Generative AI
+- Prompt Engineering
+- Model Training & Evaluation
+
+### Programming
+- Python
+- Java
+- SQL
+
+### Frameworks & Libraries
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- OpenCV
+- FastAPI
+
+### Tools
+- Azure ML
+- Git & GitHub
+- VS Code
+- MongoDB
+---
+
+## Featured AI Projects
 
 | Project | Description |
-|--------|------------|
-|  TENSPICK | Tech initiative building innovative digital products |
-|  LOCAL Link | Hyperlocal discovery platform |
-|  Wedors | Wedding & event booking platform |
-|  Teertharaksha | AI-based pilgrimage planner |
-|  Dequalita Interior Homes | Business website & branding |
-|  Spark Dance Academy | Online academy presence |
-|  AGK Groups | Startup digital support |
-|  LaundryOurs | Laundry service platform |
-|  RR Labs | Client-based digital solution |
-
----
-
-##  GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Narapu-Reddy-Mano-Teja-Reddy&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Narapu-Reddy-Mano-Teja-Reddy&theme=tokyonight" />
-</p>
+|----------|-------------|
+| HireMind AI Interviewer | Multi-agent AI interview platform with voice & text assessment |
+| Podcast Audio Analysis | AI pipeline for transcription, speaker diarization & semantic search |
+| YOLOv8 Safety Detection | Computer Vision model for safety-critical object detection |
+| Multimodal Pricing Model | BERT + ResNet/ViT based pricing prediction system |
+| Teertharaksha | AI-powered pilgrimage planning assistant |
 
 ---
 
@@ -123,8 +112,8 @@ Ideas are valuable, but execution creates impact.
 
 ##  Personal Statement
 
-I am not just focused on learning technology —  
-I am focused on using technology to build, scale, and create meaningful solutions.
+I am passionate about building intelligent systems that create meaningful impact. My goal is to become a highly skilled AI Engineer capable of designing, training, and deploying machine learning solutions that solve real-world challenges at scale.
+I believe AI is not just about models and algorithms—it's about transforming ideas into systems that improve lives and drive innovation.
 
 ---
 
