@@ -84,7 +84,7 @@ I continuously explore emerging AI technologies, improve my problem-solving skil
 ##  Connect With Me
 
 <p align="center">
-<a href="https://github.com/nandu3153">💻 GitHub</a> •
+<a href="https://github.com/nandu3153?tab=repositories">💻 GitHub</a> •
 Email-narayannaidumaddina@gmail.com
 📱 +91 8328418617
 </p>
