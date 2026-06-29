@@ -1,5 +1,5 @@
 #  Hi, I'm Narayan Naidu
-###  AI Engineer @ TENSPICK
+###  AI Engineer 
 
  Passionate about building AI-powered products, intelligent systems, and real-world technology solutions.
 
